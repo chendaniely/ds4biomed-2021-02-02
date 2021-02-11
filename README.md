@@ -2,6 +2,13 @@
 
 This is the repository for the [`ds4biomed`](https://ds4biomed.tech/) materials.
 
+## 2021-02-02 workshop
+
+Recordings:
+
+- Day 1: https://www.youtube.com/watch?v=i9w4rTk7VR8
+- Day 2: https://www.youtube.com/watch?v=6y8qQ_zw-r0
+
 ## Download files and data
 
 You can download the files and data to follow along the materials by clicking the green "Code" button on the top.
